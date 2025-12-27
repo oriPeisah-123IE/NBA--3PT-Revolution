@@ -57,3 +57,6 @@ This analysis identifies the top 10 most accurate shooters of the era, led by St
 * **Python** (Pandas, Matplotlib, Seaborn)
 * **Google Colab**
 * **GitHub**
+## 🚀 Run the Code
+You can view, edit, and run the complete Python analysis directly in Google Colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ieHkvKSqAvy6_-5tlm4BO7ZWnxCdd5u-#scrollTo=UrxrQu8GONrg)
