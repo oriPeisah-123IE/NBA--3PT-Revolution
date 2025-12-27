@@ -1,9 +1,12 @@
 # 🏀 The NBA 3-Point Revolution (1997-2017)
 
- ## Project Overview
-This project provides a comprehensive data-driven analysis of how the 3-point shot transformed the NBA over two decades. By exploring a historical dataset of player statistics, I analyzed the shift in offensive strategies, the evolution of player roles, and the relationship between shooting volume and efficiency.
-The study was conducted using a robust dataset consisting of 24,691 rows and 53 columns, covering extensive player statistics across multiple eras.
+ ### **Project Overview**
+This project provides a comprehensive data-driven analysis of how the 3-point shot transformed the NBA over two decades. The study was conducted using a robust dataset consisting of **24,691 rows and 53 columns**, covering extensive player statistics across multiple eras.
 
+To extract meaningful insights, **I personally managed the entire data lifecycle**, including:
+* **Data Cleaning & Wrangling:** I cleaned the raw dataset by handling missing values, removing noise, and ensuring data integrity across 20 seasons of statistics.
+* **Advanced Data Processing:** I processed and transformed the data to calculate key performance metrics, such as seasonal averages and positional accuracy trends.
+* **Statistical Analysis:** I analyzed the shift in offensive strategies and player roles, focusing on the relationship between shooting volume and efficiency.
 
 ## The Mission
 The primary goal was to investigate the correlation between the exponential growth in 3-point attempts and league-wide shooting accuracy. Specifically, the project examines:
