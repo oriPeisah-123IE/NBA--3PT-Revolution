@@ -34,7 +34,7 @@ This analysis identifies the top 10 most accurate shooters of the era, led by St
 
 <img width="750" height="400" alt="AVG of 3PT Attemps" src="https://github.com/user-attachments/assets/ee96aa7a-dee3-447c-9673-9c88ea082827" />
 
-*This visualization highlights the relentless expansion of the 3-point shot. Beyond the 1999 lockout anomaly, we see a consistent rise in volume, specifically accelerating after 2012. This trend confirms that the "3-point revolution" is a league-wide strategic transformation, not just a passing phase.*
+**This visualization highlights the relentless expansion of the 3-point shot. Beyond the 1999 lockout anomaly, we see a consistent rise in volume, specifically accelerating after 2012. This trend confirms that the "3-point revolution" is a league-wide strategic transformation, not just a passing phase.**
 
 
 
@@ -44,7 +44,7 @@ This analysis identifies the top 10 most accurate shooters of the era, led by St
 
  <img width="750" height="400" alt="AVG of 3PT Accuracy" src="https://github.com/user-attachments/assets/d4ff0dcd-d7fd-4bec-83f1-2cd4965940c2" />
 
-
+**This graph dispels the myth that higher volume leads to lower quality. Despite the massive increase in attempts, NBA players significantly improved their shooting efficiency, reaching a league-wide accuracy peak by 2017. This indicates a fundamental evolution in player training and offensive decision-making.**
 
 
 ### 3. Volume vs. Accuracy
