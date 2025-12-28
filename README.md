@@ -83,8 +83,8 @@ Between 2007 and 2017, Power Forwards and Centers nearly doubled their effective
 *Top 10 most accurate 3-point shooters (min. 500 attempts) during the 1997-2017 era.*
  <img width="750" height="450" alt="The Influencers" src="https://github.com/user-attachments/assets/2f34c64c-498e-4675-b04f-ae63990563fd" />
 
-**"This graph highlights the 10 most accurate 3-point shooters specifically during the 1997-2017 era,led by Stephen Curry with a 43.78% success rate. 
-By focusing on this 20-year period and including only players with over 500 attempts, we ensure these results reflect sustained skill within this timeframe".** 
+**This graph highlights the 10 most accurate 3-point shooters specifically during the 1997-2017 era,led by Stephen Curry with a 43.78% success rate. 
+By focusing on this 20-year period and including only players with over 500 attempts, we ensure these results reflect sustained skill within this timeframe.** 
 
 
 
