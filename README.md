@@ -83,6 +83,10 @@ Between 2007 and 2017, Power Forwards and Centers nearly doubled their effective
 *Top 10 most accurate 3-point shooters (min. 500 attempts) during the 1997-2017 era.*
  <img width="750" height="450" alt="The Influencers" src="https://github.com/user-attachments/assets/2f34c64c-498e-4675-b04f-ae63990563fd" />
 
+**This graph shows the 10 best shooters who changed how basketball is played, led by Stephen Curry with a 43.78% success rate.
+By looking only at players with over 500 attempts, we ensure these results show real skill over time rather than just luck. ב
+These elite shooters, like Steve Nash and Kyle Korver, proved that shooting more 3-pointers is the smartest way to win.
+Their consistency over 20 years forced teams to change their defense and turned the NBA into a game driven by data and efficiency.**
 
 
  
