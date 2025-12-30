@@ -248,12 +248,14 @@ This project demonstrates that the NBA's 3-point revolution is not just about "s
 
 
 
-## Tools Used
-* **Microsoft Excel**
-* **Gemini 3 Pro**
-* **Python** (Pandas, Matplotlib, Seaborn)
-* **Google Colab**
-* **GitHub**
+
+## Tools & Technologies
+
+* **Google Gemini AI**: Used for code optimization, complex problem-solving, and professional data storytelling.
+* **Python Google Colab **: Integrated **Pandas**, **Scikit-Learn**, **Matplotlib**, and **Seaborn** for the complete data science pipeline—from cleaning and K-Means clustering to advanced spatial visualizations.
+* **NBA API**: Sourced real-time, high-fidelity shot coordinates and historical player data directly from official NBA servers.
+* **Kaggle**: Leveraged a large-scale historical database for comprehensive long-term trend analysis.
+* **Microsoft Excel**: Utilized for initial data exploration, quick filtering, and raw dataset validation.
 ## 🚀 Run the Code
 You can view, edit, and run the complete Python analysis directly in Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ieHkvKSqAvy6_-5tlm4BO7ZWnxCdd5u-#scrollTo=UrxrQu8GONrg)
