@@ -250,7 +250,7 @@ This project demonstrates that the NBA's 3-point revolution is not just about "s
 
 
 ## Tools & Technologies
-* **Python**: Integrated **Pandas**, **Scikit-Learn**, **Matplotlib**, and **Seaborn** for the complete data science pipeline—from cleaning and K-Means clustering to advanced spatial visualizations.
+* **Python**: Integrated **Pandas**, **Scikit-Learn**, **Matplotlib**, and **Seaborn** for the complete data science pipeline, from cleaning and K-Means clustering to advanced spatial visualizations.
 * **NBA API**: Sourced real-time, high-fidelity shot coordinates and historical player data directly from official NBA servers.
 * **Kaggle**: Leveraged a large-scale historical database for comprehensive long-term trend analysis.
 * **Google Gemini AI**: Used for code optimization, complex problem-solving, and professional data storytelling.
