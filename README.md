@@ -101,8 +101,9 @@ First, I used a tool called the "Elbow Method" to figure out the best way to gro
 
 The results were really interesting, the model automatically sorted everyone into three clear "Archetypes": Elite Superstars (high volume and high accuracy like Stephen Curry), High-Accuracy Snipers (very accurate but fewer shots), and Steady Contributors (the reliable role players). This shows how machine learning can find patterns in basketball that we might miss just by looking at basic averages. 
 
+<img width="750" height="450" alt="K_MEANS" src="https://github.com/user-attachments/assets/fcaff689-7714-4a26-813d-6f22193e5e74" />
 
-<img width="750" height="450" alt="K-FIND" src="https://github.com/user-attachments/assets/db3610f8-ebee-4c11-9a47-b73b682f683e" />
+
 
 
 **The "Elbow" Point**: Looking at the generated Elbow Curve, the rate of decrease in WCSS drops significantly after K=3. This point represents the "elbow," where adding more clusters no longer provides substantial improvement in explaining the data.
