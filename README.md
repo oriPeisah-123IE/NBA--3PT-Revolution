@@ -254,6 +254,7 @@ This project demonstrates that the NBA's 3-point revolution is not just about "s
 * **NBA API**: Sourced real-time, high-fidelity shot coordinates and historical player data directly from official NBA servers.
 * **Kaggle**: Leveraged a large-scale historical database for comprehensive long-term trend analysis.
 * **Google Gemini AI**: Used for code optimization, complex problem-solving, and professional data storytelling.
+* **Google Colab**: Cloud-based development environment used for writing and executing the Python code.
 * **Microsoft Excel**: Utilized for initial data exploration, quick filtering, and raw dataset validation.
 ## 🚀 Run the Code
 You can view, edit, and run the complete Python analysis directly in Google Colab:
