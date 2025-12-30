@@ -27,7 +27,7 @@ df_all = df_all.drop_duplicates(subset=['Player', 'Year'], keep='first')
 ## The Mission
 The primary goal was to investigate the correlation between the exponential growth in 3-point attempts and league-wide shooting accuracy. Specifically, the project examines:
 
- * **The Volume-Efficiency Balance**: Did the massive surge in attempts lead to a decline in accuracy, or did players' skills evolve to meet the demand?
+ * **The Volume-Efficiency Balance**: Did the massive surge in attempts lead to a decline in accuracy, or did player skills evolve to meet the demand?
 
 * **Positional Impact**: How did the revolution affect specific positions? A key focus of this analysis is the transformation of "Big Men" (Power Forwards and Centers) from interior scorers to modern perimeter threats.
 
