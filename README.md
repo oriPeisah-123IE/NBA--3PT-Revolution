@@ -160,7 +160,7 @@ This visualization breaks down the history into three eras: the "Early 2000s," t
 **The Insight**s:
 The Volume Paradox: While the volume of shots increased, the correlation between how many shots you take and winning has actually flattened in the modern era.
 
-**Baseline Requirement**: Shooting 3s is no longer a "secret weapon" that guarantees a win; it has become a "barrier to entry." If you don't shoot high volume, you cannot compete, but shooting high volume alone doesn't ensure success.
+**Baseline Requirement**: Shooting 3s is no longer a "secret weapon" that guarantees a win, it has become a "barrier to entry." If you don't shoot high volume, you cannot compete, but shooting high volume alone doesn't ensure success.
 
 ## Data Processing & Elite Team Selection
 To understand the pinnacle of the "Three-Point Revolution," I didn't just look at who shot the most. I performed a targeted data cleaning and filtering process to identify the 5 most efficient winning teams in modern history.
@@ -178,7 +178,7 @@ The Cleaning Process:
 ### What this Graph Represents:
 The resulting Vertical Lollipop Chart is a visual proof of the 3-point revolution's impact. It shows that at the highest level of professional basketball, there is a direct link between "Elite Precision" and "Elite Winning."
 
-The Findings: By isolating these 5 teams (like the 2016 Warriors and the 2001 Spurs), we can see that they didn't just follow the trend—they led it. Their ability to maintain near 40% accuracy while winning over two-thirds of their games highlights how the 3-pointer became the most lethal weapon in the NBA arsenal.
+The Findings: By isolating these 5 teams (like the 2016 Warriors and the 2001 Spurs), we can see that they didn't just follow the trend,they led it. Their ability to maintain near 40% accuracy while winning over two-thirds of their games highlights how the 3-pointer became the most lethal weapon in the NBA arsenal.
 
 ## Future Forecasting (Machine Learning & Regression Analysis)
 To conclude the research, I moved beyond historical analysis into the realm of Machine Learning. The goal was to determine if the 3-point revolution has reached its peak or if the league will continue to trend toward the perimeter over the next decade.
@@ -240,7 +240,7 @@ The data reveals a dramatic leap in efficiency for frontcourt players, with Powe
 ## Tools & Technologies
 * **Python**: Integrated **Pandas**, **Scikit-Learn**, **Matplotlib**, and **Seaborn** for the complete data science pipeline, from cleaning and K-Means clustering to advanced spatial visualizations.
 * **NBA API**: Sourced real-time, high-fidelity shot coordinates and historical player data directly from official NBA servers.
-* **Kaggle**: Leveraged a large-scale historical database for comprehensive long-term trend analysis.
+* **Kaggle**: Leveraged a large-scale historical databases for comprehensive long-term trend analysis.
 * **Google Gemini AI**: Used for code optimization, complex problem-solving, and professional data storytelling.
 * **Google Colab**: Cloud-based development environment used for writing and executing the Python code.
 * **Microsoft Excel**: Utilized for initial data exploration, quick filtering, and raw dataset validation.
@@ -248,4 +248,4 @@ The data reveals a dramatic leap in efficiency for frontcourt players, with Powe
 You can view, edit, and run the complete Python analysis directly in Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ieHkvKSqAvy6_-5tlm4BO7ZWnxCdd5u-#scrollTo=UrxrQu8GONrg)    
 ---
-Developed and Maintained by Ori Peisah
+Developed and Maintained by **Ori Peisah**
