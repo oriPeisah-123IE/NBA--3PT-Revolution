@@ -245,7 +245,8 @@ The data reveals a dramatic leap in efficiency for frontcourt players, with Powe
 * **Google Colab**: Cloud-based development environment used for writing and executing the Python code.
 * **Microsoft Excel**: Utilized for initial data exploration, quick filtering, and raw dataset validation.
 ## 🚀 Run the Code
-You can view, edit, and run the complete Python analysis directly in Google Colab:
+To run the analysis, upload the provided Excel files (NBA Project.xlsx and NBA-Team-Stats.xlsx) to your Google Colab session and execute the notebook cells.
+You can view, edit, and run the complete Python analysis directly Here:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ieHkvKSqAvy6_-5tlm4BO7ZWnxCdd5u-#scrollTo=UrxrQu8GONrg)    
 ---
 Developed and Maintained by **Ori Peisah**
